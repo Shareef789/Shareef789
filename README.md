@@ -1,16 +1,16 @@
-## Hi there 👋
+ Hi, I'm Taufeeq Shareef 👋
 
-<!--
-**Shareef789/Shareef789** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech graduate in Artificial Intelligence & Data Science  
+💡 Interested in Machine Learning, Computer Vision, and Data Analysis  
+📊 Passionate about building data-driven solutions  
+🚀 Actively learning and working on real-world AI projects
 
-Here are some ideas to get you started:
+ 🛠 Skills
+- Programming: Python, SQL
+- Data Analysis: Pandas, NumPy, Matplotlib
+- Machine Learning: Scikit-learn
+- Deep Learning: CNNs, EfficientNet B3
+- Visualization: Power BI, Excel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 📫 Connect with me
+- LinkedIn: https://www.linkedin.com/in/your-link-here
